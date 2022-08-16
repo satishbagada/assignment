@@ -1,0 +1,26 @@
+session
+what is session ?
+
+session is used to store a temprory information one page to another page
+session is work on server side.
+session is a super global variable i.e used to store information one page to another page and work on server side.
+session create unique id .
+session technique is widely used in shopping websites where we need to store and pass cart information e.g. username, product code, product name, product price etc from one page to another.
+
+Tip: If you need a permanent storage, you may want to store the data in a database.
+
+session function :
+
+a) how to start session
+session_start();
+b) how to store information in session
+$_SESSION["name"]; //session variable
+$_SESSION["id"];
+
+c) how to unset data from session
+
+unset($_SESSION["name"]);
+unset($_SESSION["id"]);
+
+d) how to destroy session
+session_destroy();

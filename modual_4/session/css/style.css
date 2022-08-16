@@ -1,0 +1,29 @@
+body {
+    background-image: url("../images/background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 100vh; */
+    width: 100%;
+}
+
+.container {
+    /* border: 2px solid black; */
+
+}
+
+.row {
+    /* border: 2px solid red; */
+}
+
+.col-md-8,
+.col-md-7,
+.col-md-6,
+.col-md-5 {
+    /* border: 2px solid blue; */
+    background-color: rgba(0, 200, 80, 0.2);
+}
+
+
+.col-md-8 {
+    /* background: rgba(red, green, blue, alpha); */
+}

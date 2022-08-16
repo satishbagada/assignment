@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #8d47a6;
+}
+
+.btn {
+    background-color: #8d47a6;
+
+}
+
+.form-label {
+    margin-bottom: -5px;
+    margin-inline: auto;
+
+}
+
+
+.form-control {
+    margin-bottom: -2px;
+
+    margin-inline: auto;
+
+}
