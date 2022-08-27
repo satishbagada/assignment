@@ -1,0 +1,45 @@
+<html>
+
+<head>
+	<style>
+		body {
+			font-family: arial;
+		}
+
+		#box {
+			border: 2px solid blue;
+			background: yellow;
+			font-size: 20px;
+			padding: 10px;
+			margin: 10px;
+
+		}
+	</style>
+</head>
+
+<body>
+	<h1>jquery keyboard event</h1>
+	<div id="box">
+		<p>some thos text.</p>
+		<input type="text">
+	</div>
+	<p>keypress.<span>0<span></p>
+
+	<script src="jquery.js"></script>
+	<script>
+		var i = 0;
+		$(document).ready(function () {
+			$("input").keypress(function () {
+				$("input").css('background-color', 'orange');
+				$("span").text(i += 1);
+			});
+
+			$("input[type=text]").keyup(function () {
+				$(this).css('background', 'white');
+
+			});
+		});
+	</script>
+</body>
+
+</html>

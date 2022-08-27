@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .toggelecls {
+            background-color: aqua;
+            width: 50%;
+            border: 1px solid;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        <h2>jquery on off method</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Illum excepturi repudiandae rerum! Id pariatur modi,
+            porro blanditiis in eligendi! Quasi rem sunt sit minima,
+            repellat voluptas quia eaque alias deleniti.</p>
+    </div>
+    <button>click</button>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script>
+        $(document).ready(function () {
+            // $('.box').on('mouseenter mouseleave', function () {
+            //     $(this).toggleClass('toggelecls');
+            // })
+            $('.box').on({
+                'click': function () {
+                    $(this).css({ 'background': 'gray' });
+                },
+                'mouseover': function () {
+                    $(this).css('background', 'aqua')
+                },
+                'mouseout': function () {
+                    $(this).css('background', 'cadetblue')
+                }
+            });
+            $('button').click(function () {
+                $('.box').off('mouseover mouseout');
+            });
+
+
+
+
+        });
+    </script>
+</body>
+
+</html>

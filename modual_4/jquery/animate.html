@@ -1,0 +1,58 @@
+<html>
+
+<head>
+    <style>
+        #panel {
+            border: 1px solid;
+            width: 100px;
+            height: 100px;
+            background: yellow;
+            padding: 10px;
+            text-align: center;
+            font-size: 40px;
+			position:relative;
+			top:10px;
+		
+		
+          
+
+        }
+
+        #flip {
+            border: 1px solid;
+            width: 100px;
+            height: 100px;
+            background: green;
+            padding: 10px;
+            text-align: center;
+            font-size: 40px;
+            position:relative;
+			top:20px;
+			
+         
+
+        }
+    </style>
+    <script type="text/javascript" src="jquery.js">
+
+    </script>
+</head>
+
+<body>
+    <button>start animation</button>
+    <div id="panel">show panel</div>
+    <div id="flip">next panel</div>
+</body>
+<script>
+    $(document).ready(function () {
+        $("button").click(function () {
+            $("#panel").animate({ left: '500px' });
+            $("#flip").animate({ top: '500px' });
+
+
+        });
+
+    })
+</script>
+
+</html>

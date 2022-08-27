@@ -1,0 +1,153 @@
+<html>
+
+<head>
+	<style>
+		#box {
+			border: 1px solid;
+			width: 50%;
+			height: 250px;
+			overflow: auto;
+		}
+	</style>
+</head>
+
+<body>
+	<div id="box">
+		<p>
+
+			Depending on how you obtained the Windows software, this is a license agreement between (i) you and the
+			device manufacturer or software installer that distributes the software with your device; or (ii) you and
+			Microsoft Corporation (or, based on where you live or, if a business, where your principal place of business
+			is located, one of its affiliates) if you acquired the software from a retailer. Microsoft is the device
+			manufacturer for devices produced by Microsoft or one of its affiliates, and Microsoft is the retailer if
+			you acquired the software directly from Microsoft. Note that if you are a volume license customer, use of
+			this software is subject to your volume license agreement rather than this agreement.
+			This agreement describes your rights and the conditions upon which you may use the Windows software. You
+			should review the entire agreement, including any supplemental license terms that accompany the software and
+			any linked terms, because all of the terms are important and together create this agreement that applies to
+			you. You can review linked terms by pasting the (aka.ms/) link into a browser window.
+			By accepting this agreement or using the software, you agree to all of these terms, and consent to the
+			transmission of certain information during activation and during your use of the software as per the privacy
+			statement described in Section 3. If you do not accept and comply with these terms, you may not use the
+			software or its features. You may contact the device manufacturer or installer, or your retailer if you
+			purchased the software directly, to determine its return policy and return the software or device for a
+			refund or credit under that policy. You must comply with that policy, which might require you to return the
+			software with the entire device on which the software is installed for a refund or credit, if any.
+			1. Overview.
+			a. Applicability. This agreement applies to the Windows software that is preinstalled on your device, or
+			acquired from a retailer and installed by you, the media on which you received the software (if any), any
+			fonts, icons, images or sound files included with the software, and also any Microsoft updates, upgrades,
+			supplements or services for the software, unless other terms come with them. It also applies to Windows apps
+			developed by Microsoft that provide functionality such as mail, contacts, music and photos that are included
+			with and are a part of Windows. If this agreement contains terms regarding a feature or service not
+			available on your device, then those terms do not apply.
+			b. Additional terms. Additional Microsoft and third-party terms may apply to your use of certain features,
+			services and apps, depending on your device’s capabilities, how it is configured, and how you use it. Please
+			be sure to read them.
+			(i) Some Windows apps provide an access point to, or rely on, online services, and the use of those services
+			is sometimes governed by separate terms and privacy policies, such as the Microsoft Services Agreement at
+			(aka.ms/msa). You can view these terms and policies by looking at the service terms of use or the app’s
+			settings, as applicable. The services may not be available in all regions.
+			(ii) Microsoft, the device manufacturer or installer may include additional apps, which will be subject to
+			separate license terms and privacy policies.
+			(iii) The software includes Adobe Flash Player that is licensed under terms from Adobe Systems Incorporated
+			at (aka.ms/adobeflash). Adobe and Flash are either registered trademarks or trademarks of Adobe Systems
+			Incorporated in the United States a
+		</p>
+	</div>
+	<p>
+
+		Depending on how you obtained the Windows software, this is a license agreement between (i) you and the device
+		manufacturer or software installer that distributes the software with your device; or (ii) you and Microsoft
+		Corporation (or, based on where you live or, if a business, where your principal place of business is located,
+		one of its affiliates) if you acquired the software from a retailer. Microsoft is the device manufacturer for
+		devices produced by Microsoft or one of its affiliates, and Microsoft is the retailer if you acquired the
+		software directly from Microsoft. Note that if you are a volume license customer, use of this software is
+		subject to your volume license agreement rather than this agreement.
+		This agreement describes your rights and the conditions upon which you may use the Windows software. You should
+		review the entire agreement, including any supplemental license terms that accompany the software and any linked
+		terms, because all of the terms are important and together create this agreement that applies to you. You can
+		review linked terms by pasting the (aka.ms/) link into a browser window.
+		By accepting this agreement or using the software, you agree to all of these terms, and consent to the
+		transmission of certain information during activation and during your use of the software as per the privacy
+		statement described in Section 3. If you do not accept and comply with these terms, you may not use the software
+		or its features. You may contact the device manufacturer or installer, or your retailer if you purchased the
+		software directly, to determine its return policy and return the software or device for a refund or credit under
+		that policy. You must comply with that policy, which might require you to return the software with the entire
+		device on which the software is installed for a refund or credit, if any.
+		1. Overview.
+		a. Applicability. This agreement applies to the Windows software that is preinstalled on your device, or
+		acquired from a retailer and installed by you, the media on which you received the software (if any), any fonts,
+		icons, images or sound files included with the software, and also any Microsoft updates, upgrades, supplements
+		or services for the software, unless other terms come with them. It also applies to Windows apps developed by
+		Microsoft that provide functionality such as mail, contacts, music and photos that are included with and are a
+		part of Windows. If this agreement contains terms regarding a feature or service not available on your device,
+		then those terms do not apply.
+		b. Additional terms. Additional Microsoft and third-party terms may apply to your use of certain features,
+		services and apps, depending on your device’s capabilities, how it is configured, and how you use it. Please be
+		sure to read them.
+		(i) Some Windows apps provide an access point to, or rely on, online services, and the use of those services is
+		sometimes governed by separate terms and privacy policies, such as the Microsoft Services Agreement at
+		(aka.ms/msa). You can view these terms and policies by looking at the service terms of use or the app’s
+		settings, as applicable. The services may not be available in all regions.
+		(ii) Microsoft, the device manufacturer or installer may include additional apps, which will be subject to
+		separate license terms and privacy policies.
+		(iii) The software includes Adobe Flash Player that is licensed under terms from Adobe Systems Incorporated at
+		(aka.ms/adobeflash). Adobe and Flash are either registered trademarks or trademarks of Adobe Systems
+		Incorporated in the United States and/or other countries.
+
+		Depending on how you obtained the Windows software, this is a license agreement between (i) you and the device
+		manufacturer or software installer that distributes the software with your device; or (ii) you and Microsoft
+		Corporation (or, based on where you live or, if a business, where your principal place of business is located,
+		one of its affiliates) if you acquired the software from a retailer. Microsoft is the device manufacturer for
+		devices produced by Microsoft or one of its affiliates, and Microsoft is the retailer if you acquired the
+		software directly from Microsoft. Note that if you are a volume license customer, use of this software is
+		subject to your volume license agreement rather than this agreement.
+		This agreement describes your rights and the conditions upon which you may use the Windows software. You should
+		review the entire agreement, including any supplemental license terms that accompany the software and any linked
+		terms, because all of the terms are important and together create this agreement that applies to you. You can
+		review linked terms by pasting the (aka.ms/) link into a browser window.
+		By accepting this agreement or using the software, you agree to all of these terms, and consent to the
+		transmission of certain information during activation and during your use of the software as per the privacy
+		statement described in Section 3. If you do not accept and comply with these terms, you may not use the software
+		or its features. You may contact the device manufacturer or installer, or your retailer if you purchased the
+		software directly, to determine its return policy and return the software or device for a refund or credit under
+		that policy. You must comply with that policy, which might require you to return the software with the entire
+		device on which the software is installed for a refund or credit, if any.
+		1. Overview.
+		a. Applicability. This agreement applies to the Windows software that is preinstalled on your device, or
+		acquired from a retailer and installed by you, the media on which you received the software (if any), any fonts,
+		icons, images or sound files included with the software, and also any Microsoft updates, upgrades, supplements
+		or services for the software, unless other terms come with them. It also applies to Windows apps developed by
+		Microsoft that provide functionality such as mail, contacts, music and photos that are included with and are a
+		part of Windows. If this agreement contains terms regarding a feature or service not available on your device,
+		then those terms do not apply.
+		b. Additional terms. Additional Microsoft and third-party terms may apply to your use of certain features,
+		services and apps, depending on your device’s capabilities, how it is configured, and how you use it. Please be
+		sure to read them.
+		(i) Some Windows apps provide an access point to, or rely on, online services, and the use of those services is
+		sometimes governed by separate terms and privacy policies, such as the Microsoft Services Agreement at
+		(aka.ms/msa). You can view these terms and policies by looking at the service terms of use or the app’s
+		settings, as applicable. The services may not be available in all regions.
+		(ii) Microsoft, the device manufacturer or installer may include additional apps, which will be subject to
+		separate license terms and privacy policies.
+		(iii) The software includes Adobe Flash Player that is licensed under terms from Adobe Systems Incorporated at
+		(aka.ms/adobeflash). Adobe and Flash are either registered trademarks or trademarks of Adobe Systems
+		Incorporated in the United States and/or other countries.</p>
+	<script src="jquery.js"></script>
+	<script>
+		$(document).ready(function () {
+			$("#box").scroll(function () {
+				console.log("your window scrolling.");
+				
+			})
+			$(window).resize(function () {
+				console.log("resize window event.");
+			})
+
+
+		});
+	</script>
+</body>
+
+</html>

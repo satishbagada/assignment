@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script type="text/javascript" src="jquery.js"> </script>
+</head>
+
+<body>
+    <form id="sform" align="center">
+
+        <p>studnt name:<input type="text" name="nm" id="snm"></p>
+        <p>class:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="cls" id="sclass"></p>
+        <p>
+            <select id="country">
+                <option>india</option>
+                <option>pakistan</option>
+                <option>new york</option>
+                <option>london</option>
+                <option>japan</option>
+            </select>
+        </p>
+        <hr style="border: 1px solid;width: 20%;height: auto;">
+        <p><input type="submit" name="nm"></p>
+
+    </form>
+    <div style="margin-top:200px;background-color: aqua;border: 2px solid yellow;width:auto"></div>
+</body>
+<script>
+    $(document).ready(function () {
+        $("#country").change(function () {
+            // prompt("are you sure this data is delete.");
+            var a = $("#country").val();
+             $("hr").html(a);
+           //prompt("country  " + a);
+        });
+
+        // alert(a + "are you sure data");
+    });
+</script>
+
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .addcls {
+            /* text-align: center; */
+            background-color: gray;
+            color: aqua;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .box {
+
+            border: 5px dotted chocolate;
+            width: 50%;
+            text-align: center;
+        }
+
+        #btn input {
+            margin: 20px;
+        }
+    </style>
+</head>
+
+
+
+<body>
+
+    <h2>remove class method</h2>
+    <div class="box">
+
+        <p class="box2">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Totam, possimus consequatur illo architecto expedita
+            quia, rerum aperiam quasi praesentium excepturi laboriosam facilis ea,
+            fugiat perferendis incidunt deserunt.
+            Dolorem, sint vel.</p><br><br>
+    </div>
+    <br></br>
+    <div id="btn">
+        <input type="submit" id="addbtn" value="addbtn"><button id="removebtn">remove btn</button>
+        <input type="submit" id="toggelbtn" value="toggelbtn">
+    </div>
+    <script src="jquery.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#addbtn").click(function () {
+                $(".box").addClass('addcls');
+            });
+            $("#removebtn").click(function () {
+                $(".box").removeClass('addcls');
+            });
+            $("#toggelbtn").click(function () {
+                $(".box").toggleClass('addcls');
+            });
+
+        });
+    </script>
+</body>
+
+</html>
